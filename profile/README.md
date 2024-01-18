@@ -1,8 +1,13 @@
 ### Hi there 👋 This is Devteds by Chandra Shettigar
 
-- Publishes the source code of [short courses and tech articles](https://www.devteds.com/blog/)
-- Publishes source code of demo applications used in free and [premium courses](https://www.devteds.com/courses/)
-- Please reach out if you have questions, ideas and thoughts: chandra@devteds.com
+[Devteds](https://www.devteds.com) is your go-to for concise, educational tutorials on Cloud Engineering, DevOps, Docker, and Software Architecture. Master essential tech skills with our focused content!
+
+In this GitHub org, I share source code and that includes,
+
+- Source code of [short courses and tech articles](https://www.devteds.com/blog/)
+- Source code of demo applications used in free and [premium courses](https://www.devteds.com/courses/)
+
+Please reach out if you have questions, ideas, and thoughts: chandra@devteds.com
 
 ---- 
 
