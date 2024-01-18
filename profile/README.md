@@ -1,5 +1,3 @@
-### Hi there 👋 This is Devteds by Chandra Shettigar
-
 [Devteds](https://www.devteds.com) is your go-to for concise, educational tutorials on Cloud Engineering, DevOps, Docker, and Software Architecture. Master essential tech skills with our focused content!
 
 In this GitHub org, I share source code and that includes,
@@ -46,3 +44,8 @@ The course is also available on [Udemy](https://www.udemy.com/course/kubernetes-
 - [Docker On Amazon ECS Using CloudFormation](https://www.devteds.com/docker-on-amazon-ecs-using-cloudformation/)
 - [MySQL and PostgreSQL with Docker in Development](https://www.devteds.com/mysql-and-postgresql-with-docker-in-development/)
 - Find more on [devteds.com](https://www.devteds.com/blog/)
+
+### Author
+
+[Chandra Shettigar](https://www.devteds.com/about/)
+
