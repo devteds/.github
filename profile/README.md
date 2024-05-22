@@ -19,12 +19,13 @@ The course is also available on [Udemy](https://www.udemy.com/course/kubernetes-
 
 ### More Recent Repositories
 
+- [devcontainers-for-developers](https://github.com/devteds/devcontainers-for-developers-rails-multi-container-local-setup)
 - [devops-local-setup-docker-devcontainer-vscode](https://github.com/devteds/devops-local-setup-docker-devcontainer-vscode)
 - [multi-stage-docker-build](https://github.com/devteds/multi-stage-docker-build)
 - [cloudformation-docker-ecs](https://github.com/devteds/e9-cloudformation-docker-ecs)
-- [cloudformation-docker](https://github.com/devteds/e7-cloudformation-docker)
 - [demo-apps-on-k8s](https://github.com/devteds/demo-apps-on-k8s)
 - [demo-app-bookstore](https://github.com/devteds/demo-app-bookstore)
+- [rails-on-docker](https://github.com/devteds/devcontainers-for-developers-rails-multi-container-local-setup)
 
 
 ### Blog Posts
