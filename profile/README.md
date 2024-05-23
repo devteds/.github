@@ -3,7 +3,7 @@
 In this GitHub org, I share source code and that includes,
 
 - Source code of [short courses and tech articles](https://www.devteds.com/blog/)
-- Source code of demo applications used in free and [premium courses](https://www.devteds.com/courses/)
+- Source code of demo applications used in free and [premium courses](https://courses.devteds.com)
 
 Please reach out if you have questions, ideas, and thoughts: chandra@devteds.com
 
